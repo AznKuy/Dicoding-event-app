@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <pattern value="com.example.dicodingeventapp.ui.detail.DetailViewModel" />
+    <pattern value="com.example.dicodingeventapp.ui.detail.DetailViewModel" method="getEventById" />
+    <pattern value="com.example.dicodingeventapp.ui.detail.DetailViewModel" method="getEventDetail" />
+    <pattern value="com.example.dicodingeventapp.ui.detail.DetailViewModel" method="isLoading" />
+    <pattern value="com.example.dicodingeventapp.ui.finished.FinishedViewModel" />
+    <pattern value="com.example.dicodingeventapp.ui.finished.FinishedViewModel" method="getFinishedEvent" />
+    <pattern value="com.example.dicodingeventapp.ui.finished.FinishedViewModel" method="isLoading" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.08448415922014622" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
