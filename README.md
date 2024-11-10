@@ -53,7 +53,7 @@ Aplikasi ini dibuat dengan teknologi dan library berikut:
 - **ui**: Berisi tampilan layar aplikasi, seperti fragment dan adapter untuk daftar event.
 - **data**: Berisi kelas untuk mengakses API, database, dan sumber data lainnya.
 - **di**: Pengaturan Dependency Injection.
-- **model**: Model data dari API atau database lokal.
+- **model**: Model data dari API atau database lokal. edit
 
 ## Kontribusi
 Kontribusi selalu diterima! Silakan buat _pull request_ atau laporkan _issue_.
